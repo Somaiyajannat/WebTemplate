@@ -272,19 +272,70 @@
 			<div class="row">
 				<div class="col-three">
 					<div class="plan-items">
-						
+						<div class="plan-items-top">
+							<div class="plan-item-package">Basic</div>
+							<div class="plan-item-price">49</div>
+						</div>
+						<div class="plan-items-bottom">
+							<dl>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+							</dl>
+						</div>
 					</div>
 				</div>
 				<div class="col-three">
 					<div class="plan-items">
+						<div class="plan-items-top">
+							<div class="plan-item-package">Small Business</div>
+							<div class="plan-item-price">99</div>
+						</div>
+						<div class="plan-items-bottom">
+							<dl>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+							</dl>
+						</div>
 					</div>
 				</div>	
 				<div class="col-three">
 					<div class="plan-items">
+						<div class="plan-items-top">
+							<div class="plan-item-package">Enterprise</div>
+							<div class="plan-item-price">149</div>
+						</div>
+						<div class="plan-items-bottom">
+							<dl>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+							</dl>
+						</div>
 					</div>
 				</div>
 				<div class="col-three">
 					<div class="plan-items">
+						<div class="plan-items-top">
+							<div class="plan-item-package">Professional</div>
+							<div class="plan-item-price">199</div>
+						</div>
+						<div class="plan-items-bottom">
+							<dl>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+								<dt>kjcsdjvjbv dfnjd</dt>
+							</dl>
+						</div>
 					</div>
 				</div>
 			</div>	
